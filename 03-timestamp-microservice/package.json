@@ -1,0 +1,16 @@
+{
+  "name": "timestamp-microservice",
+  "version": "1.0.0",
+  "description": "REST microservice that parses dates and timestamps and returns unix/UTC format",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "author": "Junior",
+  "license": "MIT"
+}

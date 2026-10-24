@@ -1,0 +1,15 @@
+{
+  "name": "personal-profile-app",
+  "version": "1.0.0",
+  "description": "Express server serving static profile routes and a JSON API endpoint",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "author": "Junior",
+  "license": "MIT"
+}

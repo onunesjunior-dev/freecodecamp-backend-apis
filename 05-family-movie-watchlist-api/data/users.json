@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "username": "mom",
+    "password": "parent123",
+    "role": "parent",
+    "watchlist": []
+  },
+  {
+    "id": 2,
+    "username": "kid",
+    "password": "child123",
+    "role": "child",
+    "watchlist": []
+  }
+]
