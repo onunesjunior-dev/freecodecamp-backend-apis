@@ -18,3 +18,8 @@ supervisionado pra emitir o certificado oficial.
 | 5 | [Family Movie Watchlist API](05-family-movie-watchlist-api/) — JWT + RBAC | 23/23 | ✅ |
 
 Cada pasta tem seu próprio README explicando o projeto e os testes cobertos.
+
+## Exercícios
+
+Além dos 5 projetos, a pasta [`exercises/`](exercises/) guarda as oficinas e laboratórios
+práticos resolvidos módulo por módulo ao longo do currículo.
